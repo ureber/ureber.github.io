@@ -104,7 +104,8 @@ h4, h5, h6 {
 cred {
   margin-top: 0;
   margin-bottom: 1.5rem;
-  margin-left: -2rem;
+  margin-left: -1.9rem;
+  margin-right: margin: 0.5rem;
   font-size: 0.75rem;
 }
 
@@ -145,7 +146,8 @@ blockquote p:last-child {
 hr {
   border: none;
   margin-top: 3rem;
-  margin-left: -2rem;
+  margin-left: -1.9rem;
+  margin-right: 0.5rem;
   border-bottom: 1px solid #ccc;
   position: relative;
   top: -1px;
