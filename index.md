@@ -24,7 +24,7 @@ I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Associati
 
 I teach courses in the areas of political communication and computational methods. My most recent teaching activities are:
 
-* _Introduction to R for communication research_ (bachelor tutorial, fall 2019, together with Dr. Tom Häussler and Aleksandra Urmann)
+* _Introduction to R for communication research_ (bachelor tutorial, fall 2019, together with Dr. Thomas Häussler and Aleksandra Urmann)
 * _Introduction to Web scraping and automated content analysis with R_ (bachelor proseminar, spring 2019)
 * _Structure and content: Combining social network analysis and topic modeling_ (faculty workshop at the University of Bremen, fall 2018)
 * _Political online communication_ (bachelor proseminar, fall 2018)
