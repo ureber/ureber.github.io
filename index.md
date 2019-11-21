@@ -8,7 +8,7 @@ layout: default
 
 I am a doctoral student and research assistant at the [Institute of Communication and Media Studies](https://www.ikmb.unibe.ch/index_eng.html) at the [University of Bern](https://www.unibe.ch/index_eng.html). I hold a master's degree in geography from the University of Bern.
 
-My interests include political online communication, the transnationalization of public discourses, communication on climate change, comparative research, and computational methods for content and network analyses.
+My research interests include political online communication, communication on climate change, transnational discourses and computational methods for content and network analysis.
 
 Jump to [Research](#research) \| [Teaching](#teaching) \| [Publications](#publications) \| [Contact](#contact)
 
@@ -18,7 +18,7 @@ In my dissertation project **"World Wide Web? A closer look at the transnational
 
 The dissertation is part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/current_research_projects/current_research_projects/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">"Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues"</a> financed by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
 
-I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Association of Communication and Media Research</a> and the <a href="https://www.icahdq.org/" target="_blank">International Communication Association</a>.
+I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Association of Communication and Media Research (SACM)</a>, the <a href="https://www.icahdq.org/" target="_blank">International Communication Association (ICA)</a>, and the <a href="https://ecpr.eu" target="_blank">European Consortium for Political Research (ECPR)</a>.
 
 ### <a name="teaching"></a>Teaching
 
