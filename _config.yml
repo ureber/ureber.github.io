@@ -5,7 +5,7 @@ description: Ueli Reber - Computational social scientist studying political comm
 url: ""
 baseurl: ""
 
-font-awesome-include: false # make this false if you don't need font-awesome
+font-awesome-include: true # make this false if you don't need font-awesome
 
 # Build settings
 markdown: kramdown

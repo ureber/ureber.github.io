@@ -14,7 +14,7 @@ Jump to [Research](#research) \| [Teaching](#teaching) \| [Publications](#public
 
 ### <a name="research"></a>Research
 
-In my dissertation project **"World Wide Web? A closer look at the transnationality of the public discourse about climate change on the Web,"** I examine whether the climate change issue produces transnationalized publics in different countries and search for factors that can explain the patterns found. The project aims to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
+In my dissertation **"World Wide Web? A closer look at the transnationality of the public discourse about climate change on the Web,"** I examine whether the climate change issue produces transnationalized publics in different countries and search for factors that can explain the patterns found. The project aims to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
 
 The dissertation is part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/current_research_projects/current_research_projects/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">"Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues"</a> financed by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
 
@@ -22,7 +22,7 @@ I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Associati
 
 ### <a name="teaching"></a>Teaching
 
-I teach courses in the areas of political communication and computational methods. My most recent teaching activities are:
+I teach courses in the areas of political communication and computational methods. My most recent teaching activities include:
 
 * Introduction to R for communication research (bachelor tutorial, fall 2019, together with Dr. Thomas Häussler and Aleksandra Urman)
 * Introduction to Web scraping and automated content analysis with R (bachelor proseminar, spring 2019)
@@ -59,9 +59,9 @@ Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2016). Identifying and A
 
 #### online
 
-E-Mail: [ueli.reber@ikmb.unibe.ch](mailto:ueli.reber@ikmb.unibe.ch)
-
-GitHub: <a href="https://github.com/ureber" target="_blank">ureber</a>
+<a href="mailto:ueli.reber@ikmb.unibe.ch"><i class="fa fa-envelope-square fa-3x"></i></a>&nbsp;&nbsp;
+<a href="https://github.com/ureber" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ureber" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>
 
 #### offline 
 
@@ -74,6 +74,3 @@ Switzerland
 <hr>
 
 <cred>© 2019 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
-
-
-
