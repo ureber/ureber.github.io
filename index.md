@@ -24,6 +24,7 @@ I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Associati
 
 I teach courses in the areas of political communication and computational methods. My most recent teaching activities include:
 
+* Text as Data: Introduction to Web Scraping and Text Mining mit R (bachelor proseminar, spring 2020)
 * Introduction to R for communication research (bachelor tutorial, fall 2019, together with Dr. Thomas Häussler and Aleksandra Urman)
 * Introduction to Web scraping and automated content analysis with R (bachelor proseminar, spring 2019)
 * Structure and content: Combining social network analysis and topic modeling (PhD/postdoc workshop at the University of Bremen, fall 2018)
@@ -73,4 +74,4 @@ Switzerland
 
 <hr>
 
-<cred>© 2019 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
+<cred>© 2020 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
