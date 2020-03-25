@@ -12,6 +12,9 @@ My research interests include political online communication, communication on c
 
 Jump to [Research](#research) \| [Teaching](#teaching) \| [Publications](#publications) \| [Contact](#contact)
 
+<img src="images/net.png" alt="Climate change issue network">
+<p><small>How climate change is debated on the Web: Nodes represent actors, ties represent common motifs, color represents position on climate change (Häussler & Reber, work in progress).</small></p>
+
 ### <a name="research"></a>Research
 
 In my dissertation **"World Wide Web? A closer look at the transnationality of the public discourse about climate change on the Web,"** I examine whether the climate change issue produces transnationalized publics in different countries and search for factors that can explain the patterns found. The project aims to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
