@@ -36,7 +36,7 @@ I teach courses in the areas of political communication and computational method
 
 ### <a name="publications"></a>Publications
 
-Schmid-Petri, H., Reber, U., Arlt, D., Elgesem, D., Adam, S., & Häussler, T. (2019). A dynamic perspective on publics and counterpublics: The role of the blogosphere in pushing the issue of climate change during the 2016 US presidential campaign. _Environmental Communication_. Advance online publication. doi: <a href="https://doi.org/10.1080/17524032.2019.1677738" target="_blank">10.1080/17524032.2019.1677738</a><br>
+Schmid-Petri, H., Reber, U., Arlt, D., Elgesem, D., Adam, S., & Häussler, T. (2019). A dynamic perspective on publics and counterpublics: The role of the blogosphere in pushing the issue of climate change during the 2016 US presidential campaign. _Environmental Communication, 14_(3), 378-390. doi: <a href="https://doi.org/10.1080/17524032.2019.1677738" target="_blank">10.1080/17524032.2019.1677738</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/135097" target="_blank">BORIS</a> open repository\]
 
 Adam, S.\*, Häussler, T.\*, Schmid-Petri, H., & Reber, U. (2019). Coalitions and counter-coalitions in online contestation: An analysis of the German and British climate change debate. _New Media & Society, 21_(11-12), 2671-2690. doi: <a href="https://doi.org/10.1177/1461444819855966" target="_blank">10.1177/1461444819855966</a><br>
