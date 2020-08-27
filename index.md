@@ -13,11 +13,11 @@ My research interests include political online communication, communication on c
 Jump to [Research](#research) \| [Teaching](#teaching) \| [Publications](#publications) \| [Contact](#contact)
 
 <img src="images/net.png" alt="Climate change issue network">
-<p><small>How climate change is debated on the Web: Nodes represent actors, ties represent common motifs, color represents position on climate change (Häussler & Reber, work in progress).</small></p>
+<p><small>How climate change is debated on the Web: Nodes represent actors, ties represent common topics, color represents position on climate change (Häussler & Reber, work in progress).</small></p>
 
 ### <a name="research"></a>Research
 
-In my dissertation **"World Wide Web? A closer look at the transnationality of the public discourse about climate change on the Web,"** I examine whether the climate change issue produces transnationalized publics in different countries and search for factors that can explain the patterns found. The project aims to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
+In my dissertation **"World Wide Web? A closer look at the transnational online public discourse on climate change,"** I examine whether the climate change issue produces transnationalized publics in different countries and search for factors that can explain the patterns found. The project aims to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
 
 The dissertation is part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/current_research_projects/current_research_projects/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">"Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues"</a> financed by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
 
@@ -27,6 +27,7 @@ I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Associati
 
 I teach courses in the areas of political communication and computational methods. My most recent teaching activities include:
 
+* Introduction to R for social sciences (bachelor tutorial, fall 2020, together with Dr. Aleksandra Urman and Dr. Marlene Kammerer)
 * Text as Data: Introduction to Web Scraping and Text Mining mit R (bachelor proseminar, spring 2020)
 * Introduction to R for communication research (bachelor tutorial, fall 2019, together with Dr. Thomas Häussler and Aleksandra Urman)
 * Introduction to Web scraping and automated content analysis with R (bachelor proseminar, spring 2019)
@@ -35,6 +36,8 @@ I teach courses in the areas of political communication and computational method
 * Introduction to communication and media studies (bachelor tutorial, fall 2018, together with Dr. Franzisca Schmidt)
 
 ### <a name="publications"></a>Publications
+
+Reber, U. (accepted). Global climate change or national climate changes? An analysis of the performance of online issue publics in integrating global issues. _Environmental Communication_.
 
 Schmid-Petri, H., Reber, U., Arlt, D., Elgesem, D., Adam, S., & Häussler, T. (2020). A dynamic perspective on publics and counterpublics: The role of the blogosphere in pushing the issue of climate change during the 2016 US presidential campaign. _Environmental Communication, 14_(3), 378-390. doi: <a href="https://doi.org/10.1080/17524032.2019.1677738" target="_blank">10.1080/17524032.2019.1677738</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/135097" target="_blank">BORIS</a> open repository\]
