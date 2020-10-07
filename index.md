@@ -4,13 +4,13 @@ layout: default
 
 ## Computational social scientist<br>studying biodiversity policy
 
-[Research](#research) \| [Publications](#publications) \| [Teaching](#teaching) \| [Contact](#contact)
+[About](#about) \| [Research](#research) \| [Publications](#publications) \| [Teaching](#teaching) \| [Contact](#contact)
 
-### Welcome
+### <a name="about"></a>About
 
-I am a postdoctoral researcher at the [Swiss Federal Institute for Forest, Snow and Landscape Research WSL](https://www.wsl.ch/en/index.html) in Zürich, where I am a member of the [land-use systems group](https://www.wsl.ch/en/about-wsl/research-units/land-change-science/land-use-systems.html). Using computational methods, I analyze biodiversity policy.
+I am a postdoctoral researcher at the [Swiss Federal Institute for Forest, Snow and Landscape Research WSL](https://www.wsl.ch/en/index.html) in Zürich, where I am a member of the [land-use systems group](https://www.wsl.ch/en/about-wsl/research-units/land-change-science/land-use-systems.html). Using computational methods, I study the Swiss biodiversity policy.
 
-Prior to that, I was a doctoral student and research assistant at the [Institute of Communication and Media Studies](https://www.ikmb.unibe.ch/index_eng.html) at the [University of Bern](https://www.unibe.ch/index_eng.html). I also hold a master's degree in geography from the University of Bern.
+Prior to that, I was a doctoral student and research assistant at the [Institute of Communication and Media Studies](https://www.ikmb.unibe.ch/index_eng.html) at the [University of Bern](https://www.unibe.ch/index_eng.html). I hold a master's degree in geography from the University of Bern.
 
 My research interests include environmental policy, political communication, transnational issues, and computational methods for content and network analysis.
 
