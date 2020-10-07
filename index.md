@@ -16,7 +16,7 @@ My research interests include environmental policy, political communication, tra
 
 ### <a name="research"></a>Research
 
-As part of the [Blue Green Biodiversity research initiative](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluate the performance of Swiss biodiversity policy over the last decades. To this end, I work closely with the policy analysis and environmental governance group ([PEGO](https://www.eawag.ch/en/department/ess/main-focus/pego/)) at EAWAG.
+As part of the [Blue Green Biodiversity research initiative](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluate the performance of Swiss biodiversity policy over the last decades. To this end, I work closely with the [policy analysis and environmental governance group](https://www.eawag.ch/en/department/ess/main-focus/pego/) at EAWAG.
 
 <img src="images/net_2.png" alt="Climate change discourse network">
 <p><small>The transnational climate change debate online: Nodes represent actors, ties represent common topics, colors represent the actors' countries (Reber & Häussler, work in progress).</small></p>
@@ -76,7 +76,8 @@ I teach courses in the areas of political communication and computational method
 
 <a href="mailto:ueli.reber@wsl.ch"><i class="fa fa-envelope-square fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://github.com/ureber" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ureber" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>
+<a href="https://www.linkedin.com/in/ureber" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=f9mSE5gAAAAJ&hl=de&oi=ao" target="_blank"><i class="fa fa-google fa-3x"></i></a>
 
 #### offline 
 
