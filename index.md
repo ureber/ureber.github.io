@@ -2,40 +2,35 @@
 layout: default
 ---
 
-## Computational social scientist<br>studying political communication
+## Computational social scientist<br>studying biodiversity policy
+
+[Research](#research) \| [Publications](#publications) \| [Teaching](#teaching) \| [Contact](#contact)
 
 ### Welcome
 
-I am a doctoral student and research assistant at the [Institute of Communication and Media Studies](https://www.ikmb.unibe.ch/index_eng.html) at the [University of Bern](https://www.unibe.ch/index_eng.html). I hold a master's degree in geography from the University of Bern.
+I am a postdoctoral researcher at the [Swiss Federal Institute for Forest, Snow and Landscape Research WSL](https://www.wsl.ch/en/index.html) in Zürich, where I am a member of the [land-use systems group](https://www.wsl.ch/en/about-wsl/research-units/land-change-science/land-use-systems.html). Using computational methods, I analyze biodiversity policy.
 
-My research interests include political online communication, communication on climate change, transnational discourses and computational methods for content and network analysis.
+Prior to that, I was a doctoral student and research assistant at the [Institute of Communication and Media Studies](https://www.ikmb.unibe.ch/index_eng.html) at the [University of Bern](https://www.unibe.ch/index_eng.html). I also hold a master's degree in geography from the University of Bern.
 
-Jump to [Research](#research) \| [Teaching](#teaching) \| [Publications](#publications) \| [Contact](#contact)
-
-<img src="images/net.png" alt="Climate change issue network">
-<p><small>How climate change is debated on the Web: Nodes represent actors, ties represent common topics, color represents position on climate change (Häussler & Reber, work in progress).</small></p>
+My research interests include environmental policy, political communication, transnational issues, and computational methods for content and network analysis.
 
 ### <a name="research"></a>Research
 
-In my dissertation **"World Wide Web? A closer look at the transnational online public discourse on climate change,"** I examine whether the climate change issue produces transnationalized publics in different countries and search for factors that can explain the patterns found. The project aims to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
+As part of the [Blue Green Biodiversity research initiative](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluate the performance of Swiss biodiversity policy over the last decades. To this end, I work closely with the policy analysis and environmental governance group ([PEGO](https://www.eawag.ch/en/department/ess/main-focus/pego/)) at EAWAG.
 
-The dissertation is part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/current_research_projects/current_research_projects/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">"Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues"</a> financed by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
+<img src="images/net_2.png" alt="Climate change discourse network">
+<p><small>The transnational climate change debate online: Nodes represent actors, ties represent common topics, colors represent the actors' countries (Reber & Häussler, work in progress).</small></p>
+
+In my dissertation "World Wide Web? A closer look at the transnational online public discourse on climate change," I examined whether the climate change issue produces transnationalized publics in different countries and searched for factors that can explain the patterns found. The project aimed to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
+
+The dissertation was part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/current_research_projects/current_research_projects/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">"Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues"</a> financed by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
 
 I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Association of Communication and Media Research (SACM)</a>, the <a href="https://www.icahdq.org/" target="_blank">International Communication Association (ICA)</a>, and the <a href="https://ecpr.eu" target="_blank">European Consortium for Political Research (ECPR)</a>.
 
-### <a name="teaching"></a>Teaching
-
-I teach courses in the areas of political communication and computational methods. My most recent teaching activities include:
-
-* Introduction to R for social sciences (bachelor tutorial, fall 2020, together with Dr. Aleksandra Urman and Dr. Marlene Kammerer)
-* Text as Data: Introduction to Web Scraping and Text Mining mit R (bachelor proseminar, spring 2020)
-* Introduction to R for communication research (bachelor tutorial, fall 2019, together with Dr. Thomas Häussler and Aleksandra Urman)
-* Introduction to Web scraping and automated content analysis with R (bachelor proseminar, spring 2019)
-* Structure and content: Combining social network analysis and topic modeling (PhD/postdoc workshop at the University of Bremen, fall 2018)
-* Political online communication (bachelor proseminar, fall 2018)
-* Introduction to communication and media studies (bachelor tutorial, fall 2018, together with Dr. Franzisca Schmidt)
-
 ### <a name="publications"></a>Publications
+
+Adam, S.\*, Reber, U.\*, Häussler, T.\*, & Schmid-Petri, H. (2020). How climate change skeptics (try to) spread their ideas: Using computational methods to assess the resonance among skeptics' and legacy media. _PLoS ONE, 15_(10), e0240089. doi: <a href="https://doi.org/10.1371/journal.pone.0240089" target="_blank">10.1371/journal.pone.0240089</a><br>
+\[\*Equal contribution, open access, R code on <a href="https://github.com/ikmb-unibe/coab_so2" target="_blank">GitHub</a>\]
 
 Reber, U. (2020). Global climate change or national climate changes? An analysis of the performance of online issue publics in integrating global issues. _Environmental Communication_. Advance online publication. doi: <a href="https://doi.org/10.1080/17524032.2020.1812685" target="_blank">10.1080/17524032.2020.1812685</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/146500/" target="_blank">BORIS</a> open repository\]
@@ -44,7 +39,7 @@ Schmid-Petri, H., Reber, U., Arlt, D., Elgesem, D., Adam, S., & Häussler, T. (2
 \[Manuscript on <a href="https://boris.unibe.ch/135097/" target="_blank">BORIS</a> open repository\]
 
 Adam, S.\*, Häussler, T.\*, Schmid-Petri, H., & Reber, U. (2019). Coalitions and counter-coalitions in online contestation: An analysis of the German and British climate change debate. _New Media & Society, 21_(11-12), 2671-2690. doi: <a href="https://doi.org/10.1177/1461444819855966" target="_blank">10.1177/1461444819855966</a><br>
-\[\*Shared first authorship, manuscript on <a href="https://boris.unibe.ch/133189/" target="_blank">BORIS</a> open repository\]
+\[\*Equal contribution, manuscript on <a href="https://boris.unibe.ch/133189/" target="_blank">BORIS</a> open repository\]
 
 Reber, U. (2019). Overcoming language barriers: Assessing the potential of machine translation and topic modeling for the comparative analysis of multilingual text corpora. _Communication Methods and Measures, 13_(2), 102-125. doi: <a href="https://doi.org/10.1080/19312458.2018.1555798" target="_blank">10.1080/19312458.2018.1555798</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/131398/" target="_blank">BORIS</a> open repository, R code on <a href="https://github.com/ureber/mt-paper" target="_blank">GitHub</a>\]
@@ -63,20 +58,31 @@ Häussler, T., Schmid-Petri, H., Adam, S., Reber, U., & Arlt, D. (2016). The cli
 
 Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2016). Identifying and Analyzing Hyperlink Issue Networks. In G. Vowe & P. Henn (Eds.), _Political Communication in the Online World: Theoretical Approaches and Research Designs_ (pp. 233–247). New York, London: Routledge.
 
+### <a name="teaching"></a>Teaching
+
+I teach courses in the areas of political communication and computational methods. My most recent teaching activities include:
+
+* Introduction to R for social sciences (University of Bern, bachelor tutorial, fall 2020, together with Dr. Aleksandra Urman and Dr. Marlene Kammerer)
+* Text as Data: Introduction to Web Scraping and Text Mining mit R (University of Bern, bachelor proseminar, spring 2020)
+* Introduction to R for communication research (University of Bern, bachelor tutorial, fall 2019, together with Dr. Thomas Häussler and Aleksandra Urman)
+* Introduction to Web scraping and automated content analysis with R (University of Bern, bachelor proseminar, spring 2019)
+* Structure and content: Combining social network analysis and topic modeling (University of Bremen, PhD/postdoc workshop, fall 2018)
+* Political online communication (University of Bern, bachelor proseminar, fall 2018)
+* Introduction to communication and media studies (University of Bern, bachelor tutorial, fall 2018, together with Dr. Franzisca Schmidt)
+
 ### <a name="contact"></a>Contact
 
 #### online
 
-<a href="mailto:ueli.reber@ikmb.unibe.ch"><i class="fa fa-envelope-square fa-3x"></i></a>&nbsp;&nbsp;
+<a href="mailto:ueli.reber@wsl.ch"><i class="fa fa-envelope-square fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://github.com/ureber" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ureber" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>
 
 #### offline 
 
-Universität Bern<br>
-Institut für Kommunikations- und Medienwissenschaft<br>
-Fabrikstrasse 8<br>
-3012 Bern<br>
+Swiss Federal Research Institute WSL<br>
+Zürcherstrasse 111<br>
+8903 Birmensdorf<br>
 Switzerland
 
 <hr>
