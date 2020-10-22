@@ -16,14 +16,14 @@ My research interests include environmental policy, political communication, tra
 
 ### <a name="research"></a>Research
 
-As part of the [Blue Green Biodiversity research initiative (BGB)](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluate the performance of Swiss biodiversity policy over the last decades. To this end, I work closely with the [policy analysis and environmental governance group](https://www.eawag.ch/en/department/ess/main-focus/pego/) at EAWAG.
+As part of the [Blue Green Biodiversity research initiative BGB](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluate the performance of Swiss biodiversity policy over the last decades. To this end, I work closely with the [policy analysis and environmental governance group](https://www.eawag.ch/en/department/ess/main-focus/pego/) at EAWAG.
 
 <img src="images/net_2.png" alt="Climate change discourse network">
 <p><small>The transnational climate change debate online: Nodes represent actors, ties represent common topics, colors represent the actors' countries (Reber & Häussler, work in progress).</small></p>
 
 In my dissertation <a href="https://boristheses.unibe.ch/2270/" target="_blank">"World Wide Web? A closer look at the transnational online public discourse on climate change"</a>, I examined whether the climate change issue produces transnationalized publics in different countries and searched for factors that can explain the patterns found. The project aimed to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
 
-The dissertation was part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/current_research_projects/current_research_projects/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">"Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues"</a> financed by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
+The dissertation was part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/finished_research_projects/abgeschlossene_forschungsprojekte/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">"Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues"</a> financed by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
 
 I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Association of Communication and Media Research (SACM)</a>, the <a href="https://www.icahdq.org/" target="_blank">International Communication Association (ICA)</a>, and the <a href="https://ecpr.eu" target="_blank">European Consortium for Political Research (ECPR)</a>.
 
