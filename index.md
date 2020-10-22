@@ -16,12 +16,12 @@ My research interests include environmental policy, political communication, tra
 
 ### <a name="research"></a>Research
 
-As part of the [Blue Green Biodiversity research initiative](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluate the performance of Swiss biodiversity policy over the last decades. To this end, I work closely with the [policy analysis and environmental governance group](https://www.eawag.ch/en/department/ess/main-focus/pego/) at EAWAG.
+As part of the [Blue Green Biodiversity research initiative (BGB)](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluate the performance of Swiss biodiversity policy over the last decades. To this end, I work closely with the [policy analysis and environmental governance group](https://www.eawag.ch/en/department/ess/main-focus/pego/) at EAWAG.
 
 <img src="images/net_2.png" alt="Climate change discourse network">
 <p><small>The transnational climate change debate online: Nodes represent actors, ties represent common topics, colors represent the actors' countries (Reber & Häussler, work in progress).</small></p>
 
-In my dissertation "World Wide Web? A closer look at the transnational online public discourse on climate change," I examined whether the climate change issue produces transnationalized publics in different countries and searched for factors that can explain the patterns found. The project aimed to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
+In my dissertation <a href="https://boristheses.unibe.ch/2270/" target="_blank">"World Wide Web? A closer look at the transnational online public discourse on climate change"</a>, I examined whether the climate change issue produces transnationalized publics in different countries and searched for factors that can explain the patterns found. The project aimed to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
 
 The dissertation was part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/current_research_projects/current_research_projects/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">"Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues"</a> financed by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
 
@@ -29,7 +29,7 @@ I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Associati
 
 ### <a name="publications"></a>Publications
 
-Adam, S.\*, Reber, U.\*, Häussler, T.\*, & Schmid-Petri, H. (2020). How climate change skeptics (try to) spread their ideas: Using computational methods to assess the resonance among skeptics' and legacy media. _PLoS ONE, 15_(10), e0240089. doi: <a href="https://doi.org/10.1371/journal.pone.0240089" target="_blank">10.1371/journal.pone.0240089</a><br>
+Adam, S.\*, Reber, U.\*, Häussler, T.\*, & Schmid-Petri, H. (2020). How climate change skeptics (try to) spread their ideas: Using computational methods to assess the resonance among skeptics' and legacy media. _PLoS ONE, 15_(10), 1-23. doi: <a href="https://doi.org/10.1371/journal.pone.0240089" target="_blank">10.1371/journal.pone.0240089</a><br>
 \[\*Equal contribution, open access, R code on <a href="https://github.com/ikmb-unibe/coab_so2" target="_blank">GitHub</a>\]
 
 Reber, U. (2020). Global climate change or national climate changes? An analysis of the performance of online issue publics in integrating global issues. _Environmental Communication_. Advance online publication. doi: <a href="https://doi.org/10.1080/17524032.2020.1812685" target="_blank">10.1080/17524032.2020.1812685</a><br>
