@@ -77,7 +77,9 @@ I teach courses in the areas of political communication and computational method
 <a href="mailto:ueli.reber@wsl.ch"><i class="fa fa-envelope-square fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://github.com/ureber" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ureber" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>&nbsp;&nbsp;
+<a href="https://twitter.com/u_reber" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=f9mSE5gAAAAJ&hl=de&oi=ao" target="_blank"><i class="fa fa-google fa-3x"></i></a>
+
 
 #### offline 
 
@@ -88,4 +90,4 @@ Switzerland
 
 <hr>
 
-<cred>© 2020 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
+<cred>© 2021 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
