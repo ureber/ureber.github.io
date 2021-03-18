@@ -18,8 +18,8 @@ My research interests include environmental policy, political communication, tra
 
 As part of the [Blue Green Biodiversity research initiative BGB](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluate the performance of Swiss biodiversity policy over the last decades. To this end, I work closely with the [policy analysis and environmental governance group](https://www.eawag.ch/en/department/ess/main-focus/pego/) at EAWAG.
 
-<img src="images/net_2.png" alt="Climate change discourse network">
-<p><small>The transnational climate change debate online: Nodes represent actors, ties represent common topics, colors represent the actors' countries (Reber & Häussler, work in progress).</small></p>
+<img src="images/net_3.png" alt="Climate change hyperlink and discourse network">
+<p><small>The transnational climate change debate online: Nodes represent actors, ties represent hyperlinks in the bottom network and common topics in the top network, colors represent the actors' countries (Reber & Häussler, work in progress).</small></p>
 
 In my dissertation <a href="https://boristheses.unibe.ch/2270/" target="_blank">"World Wide Web? A closer look at the transnational online public discourse on climate change"</a>, I examined whether the climate change issue produces transnationalized publics in different countries and searched for factors that can explain the patterns found. The project aimed to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
 
