@@ -2,21 +2,22 @@
 layout: default
 ---
 
-## Computational social scientist<br>studying biodiversity policy
+## Computational social scientist<br>studying environmental politics
 
 [About](#about) \| [Research](#research) \| [Publications](#publications) \| [Teaching](#teaching) \| [Contact](#contact)
 
 ### <a name="about"></a>About
 
-I am a postdoctoral researcher at the [Swiss Federal Institute for Forest, Snow and Landscape Research WSL](https://www.wsl.ch/en/index.html) in Zürich, where I am a member of the [land-use systems group](https://www.wsl.ch/en/about-wsl/research-units/land-change-science/land-use-systems.html). Using computational methods, I study the Swiss biodiversity policy.
+I am a postdoctoral researcher at the [Swiss Federal Institute of Aquatic Science and Technology (Eawag)](https://www.eawag.ch/en/) in Zürich, where I am a member of the [
+Policy Analysis and Environmental Governance group (PEGO)](https://www.eawag.ch/en/department/ess/main-focus/pego/). My current work in the [TRAPEGO project](https://www.ipw.unibe.ch/about_us/people/research_projects_ingold/research_projects_ingold/9/land_use_and_biodiversity/index_eng.html) focuses on the role of evidence in pesticide governance. Most of the evidence I produce is based on the analysis of texts.
 
-Prior to that, I was a doctoral student and research assistant at the [Institute of Communication and Media Studies](https://www.ikmb.unibe.ch/index_eng.html) at the [University of Bern](https://www.unibe.ch/index_eng.html). I hold a master's degree in geography from the University of Bern.
+More broadly, my research interests include environmental politics, political communication, public discourses, and computational methods for content and network analysis.
 
-My research interests include environmental policy, political communication, transnational issues, and computational methods for content and network analysis.
+Befor I joined PEGO, I was a postdoctoral researcher at the [Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)](https://www.wsl.ch/en/index.html) and did my doctorate at the [University of Bern](https://www.unibe.ch/index_eng.html). I also hold a master's degree in geography from the University of Bern.
 
 ### <a name="research"></a>Research
 
-As part of the [Blue Green Biodiversity research initiative BGB](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluate the performance of Swiss biodiversity policy over the last decades. To this end, I work closely with the [policy analysis and environmental governance group](https://www.eawag.ch/en/department/ess/main-focus/pego/) at EAWAG.
+As part of the [Blue Green Biodiversity research initiative BGB](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluated the performance of Swiss biodiversity policy over the last decades.
 
 <img src="images/net_3.png" alt="Climate change hyperlink and discourse network">
 <p><small>The transnational climate change debate online: Nodes represent actors, ties represent hyperlinks in the bottom network and common topics in the top network, colors represent the actors' countries (Reber & Häussler, work in progress).</small></p>
@@ -29,17 +30,17 @@ I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Associati
 
 ### <a name="publications"></a>Publications
 
-Adam, S.\*, Reber, U.\*, Häussler, T.\*, & Schmid-Petri, H. (2020). How climate change skeptics (try to) spread their ideas: Using computational methods to assess the resonance among skeptics' and legacy media. _PLoS ONE, 15_(10), 1-23. doi: <a href="https://doi.org/10.1371/journal.pone.0240089" target="_blank">10.1371/journal.pone.0240089</a><br>
-\[\*Equal contribution, open access, R code on <a href="https://github.com/ikmb-unibe/coab_so2" target="_blank">GitHub</a>\]
-
-Reber, U. (2020). Global climate change or national climate changes? An analysis of the performance of online issue publics in integrating global issues. _Environmental Communication_. Advance online publication. doi: <a href="https://doi.org/10.1080/17524032.2020.1812685" target="_blank">10.1080/17524032.2020.1812685</a><br>
+Reber, U. (2021). Global climate change or national climate changes? An analysis of the performance of online issue publics in integrating global issues. _Environmental Communication, 15_(2), 173-188. doi: <a href="https://doi.org/10.1080/17524032.2020.1812685" target="_blank">10.1080/17524032.2020.1812685</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/146500/" target="_blank">BORIS</a> open repository\]
+
+Adam, S., Reber, U., Häussler, T., & Schmid-Petri, H. (2020). How climate change skeptics (try to) spread their ideas: Using computational methods to assess the resonance among skeptics' and legacy media. _PLoS ONE, 15_(10), 1-23. doi: <a href="https://doi.org/10.1371/journal.pone.0240089" target="_blank">10.1371/journal.pone.0240089</a><br>
+\[Open access, R code on <a href="https://github.com/ikmb-unibe/coab_so2" target="_blank">GitHub</a>\]
 
 Schmid-Petri, H., Reber, U., Arlt, D., Elgesem, D., Adam, S., & Häussler, T. (2020). A dynamic perspective on publics and counterpublics: The role of the blogosphere in pushing the issue of climate change during the 2016 US presidential campaign. _Environmental Communication, 14_(3), 378-390. doi: <a href="https://doi.org/10.1080/17524032.2019.1677738" target="_blank">10.1080/17524032.2019.1677738</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/135097/" target="_blank">BORIS</a> open repository\]
 
-Adam, S.\*, Häussler, T.\*, Schmid-Petri, H., & Reber, U. (2019). Coalitions and counter-coalitions in online contestation: An analysis of the German and British climate change debate. _New Media & Society, 21_(11-12), 2671-2690. doi: <a href="https://doi.org/10.1177/1461444819855966" target="_blank">10.1177/1461444819855966</a><br>
-\[\*Equal contribution, manuscript on <a href="https://boris.unibe.ch/133189/" target="_blank">BORIS</a> open repository\]
+Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2019). Coalitions and counter-coalitions in online contestation: An analysis of the German and British climate change debate. _New Media & Society, 21_(11-12), 2671-2690. doi: <a href="https://doi.org/10.1177/1461444819855966" target="_blank">10.1177/1461444819855966</a><br>
+\[Manuscript on <a href="https://boris.unibe.ch/133189/" target="_blank">BORIS</a> open repository\]
 
 Reber, U. (2019). Overcoming language barriers: Assessing the potential of machine translation and topic modeling for the comparative analysis of multilingual text corpora. _Communication Methods and Measures, 13_(2), 102-125. doi: <a href="https://doi.org/10.1080/19312458.2018.1555798" target="_blank">10.1080/19312458.2018.1555798</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/131398/" target="_blank">BORIS</a> open repository, R code on <a href="https://github.com/ureber/mt-paper" target="_blank">GitHub</a>\]
@@ -51,12 +52,13 @@ Maier, D., Waldherr, A., Miltner, P., Wiedemann, G., Niekler, A., Keinert, A., P
 \[Manuscript on <a href="https://boris.unibe.ch/112835/" target="_blank">BORIS</a> open repository\]
 
 Häussler, T., Adam, S., Schmid-Petri, H., & Reber, U. (2017). How political conflict shapes online spaces. A comparison of climate change hyperlink networks in the U.S. and Germany. _International Journal of Communication 11_, 3096–3117. <a href="https://ijoc.org/index.php/ijoc/article/view/5644" target="_blank">https://ijoc.org/index.php/ijoc/article/view/5644</a><br>
-\[open access\]
+\[Open access\]
 
 Häussler, T., Schmid-Petri, H., Adam, S., Reber, U., & Arlt, D. (2016). The climate of debate: How institutional factors shape legislative discourses on climate change. _Studies in Communication Sciences 16_, 94-102. doi: <a href="https://doi.org/10.1016/j.scoms.2016.04.002" target="_blank">10.1016/j.scoms.2016.04.002</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/112839/" target="_blank">BORIS</a> open repository\]
 
-Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2016). Identifying and Analyzing Hyperlink Issue Networks. In G. Vowe & P. Henn (Eds.), _Political Communication in the Online World: Theoretical Approaches and Research Designs_ (pp. 233–247). New York, London: Routledge.
+Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2016). Identifying and Analyzing Hyperlink Issue Networks. In G. Vowe & P. Henn (Eds.), _Political Communication in the Online World: Theoretical Approaches and Research Designs_ (pp. 233–247). New York, London: Routledge.</a><br>
+\[Book can be found <a href="http://ndl.ethernet.edu.et/bitstream/123456789/48695/1/40.pdf#page=250" target="_blank">online</a>\]
 
 ### <a name="teaching"></a>Teaching
 
@@ -74,7 +76,7 @@ I teach courses in the areas of political communication and computational method
 
 #### online
 
-<a href="mailto:ueli.reber@wsl.ch"><i class="fa fa-envelope-square fa-3x"></i></a>&nbsp;&nbsp;
+<a href="mailto:ueli.reber@eawag.ch"><i class="fa fa-envelope-square fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://github.com/ureber" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ureber" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://twitter.com/u_reber" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>&nbsp;&nbsp;
@@ -83,9 +85,10 @@ I teach courses in the areas of political communication and computational method
 
 #### offline 
 
-Swiss Federal Research Institute WSL<br>
-Zürcherstrasse 111<br>
-8903 Birmensdorf<br>
+Swiss Federal Institute of Aquatic Science and Technology (Eawag)<br>
+Department Environmental Social Sciences<br>
+Überlandstrasse 133<br>
+8600 Dübendorf<br>
 Switzerland
 
 <hr>
