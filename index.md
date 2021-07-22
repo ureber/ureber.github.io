@@ -8,23 +8,20 @@ layout: default
 
 ### <a name="about"></a>About
 
-I am a postdoctoral researcher at the [Swiss Federal Institute of Aquatic Science and Technology (Eawag)](https://www.eawag.ch/en/) in Zürich, where I am a member of the [
-Policy Analysis and Environmental Governance group (PEGO)](https://www.eawag.ch/en/department/ess/main-focus/pego/). My current work in the [TRAPEGO project](https://www.ipw.unibe.ch/about_us/people/research_projects_ingold/research_projects_ingold/9/land_use_and_biodiversity/index_eng.html) focuses on the role of evidence in pesticide governance. Most of the evidence I produce is based on the analysis of texts.
+I am a postdoctoral researcher at the <a href="https://www.eawag.ch/en/" target="_blank">Swiss Federal Institute of Aquatic Science and Technology (Eawag)</a> in Zürich, where I am a member of the <a href="https://www.eawag.ch/en/department/ess/main-focus/pego/" target="_blank">Policy Analysis and Environmental Governance group (PEGO)</a>. Befor I joined PEGO, I was a postdoctoral researcher at the <a href="https://www.wsl.ch/en/index.html" target="_blank">Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)</a> and earned my doctorate in social sciences at the <a href="https://www.unibe.ch/index_eng.html" target="_blank">University of Bern</a>. I also hold a master's degree in geography from the University of Bern.
 
-More broadly, my research interests include environmental politics, political communication, public discourses, and computational methods for content and network analysis.
-
-Befor I joined PEGO, I was a postdoctoral researcher at the [Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)](https://www.wsl.ch/en/index.html) and did my doctorate at the [University of Bern](https://www.unibe.ch/index_eng.html). I also hold a master's degree in geography from the University of Bern.
+My research interests include environmental politics, political communication, transnationalization, and computational methods for content and network analysis. Most of the evidence I produce is based on the analysis of texts.
 
 ### <a name="research"></a>Research
 
-As part of the [Blue Green Biodiversity research initiative BGB](https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html), I evaluated the performance of Swiss biodiversity policy over the last decades.
+My current work in the <a href="https://www.ipw.unibe.ch/about_us/people/research_projects_ingold/research_projects_ingold/9/land_use_and_biodiversity/index_eng.html" target="_blank">Transformation in Pesticide Governance project (TRAPEGO)</a> focuses on the role of evidence in pesticide governance. Using quantitative text analysis, I study the diffusion of evidence from the scientific arena into politics, media, and agricultural practice.
+
+In the context of the <a href="https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html" target="_blank">Blue Green Biodiversity Research Initiative (BGB)</a>, I evaluate the performance of Swiss biodiversity policy over the last two decades. The focus is on the integration of biodiversity into different policy sectors and stages of the policy process. This also involves the question of which actors are driving biodiversity integration.
 
 <img src="images/net_3.png" alt="Climate change hyperlink and discourse network">
 <p><small>The transnational climate change debate online: Nodes represent actors, ties represent hyperlinks in the bottom network and common topics in the top network, colors represent the actors' countries (Reber & Häussler, work in progress).</small></p>
 
-In my dissertation <a href="https://boristheses.unibe.ch/2270/" target="_blank">"World Wide Web? A closer look at the transnational online public discourse on climate change"</a>, I examined whether the climate change issue produces transnationalized publics in different countries and searched for factors that can explain the patterns found. The project aimed to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses.
-
-The dissertation was part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/finished_research_projects/abgeschlossene_forschungsprojekte/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">"Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues"</a> financed by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
+In my dissertation <a href="https://boristheses.unibe.ch/2270/" target="_blank">World Wide Web? A closer look at the transnational online public discourse on climate change</a>, I examined whether the climate change issue produces transnationalized publics in different countries and searched for factors that can explain the patterns found. The project aimed to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses. The dissertation was part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/finished_research_projects/abgeschlossene_forschungsprojekte/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues</a>.
 
 I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Association of Communication and Media Research (SACM)</a>, the <a href="https://www.icahdq.org/" target="_blank">International Communication Association (ICA)</a>, and the <a href="https://ecpr.eu" target="_blank">European Consortium for Political Research (ECPR)</a>.
 
@@ -86,7 +83,7 @@ I teach courses in the areas of political communication and computational method
 #### offline 
 
 Swiss Federal Institute of Aquatic Science and Technology (Eawag)<br>
-Department Environmental Social Sciences<br>
+Environmental Social Sciences<br>
 Überlandstrasse 133<br>
 8600 Dübendorf<br>
 Switzerland
