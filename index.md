@@ -14,7 +14,7 @@ My research interests include environmental politics, political communication, t
 
 ### <a name="research"></a>Research
 
-My current work in the <a href="https://www.ipw.unibe.ch/about_us/people/research_projects_ingold/research_projects_ingold/9/land_use_and_biodiversity/index_eng.html" target="_blank">Transformation in Pesticide Governance project (TRAPEGO)</a> focuses on the role of evidence in pesticide governance. Using quantitative text analysis, I study the diffusion of evidence from the scientific arena into politics, media, and agricultural practice.
+My current work in the <a href="https://trapego.ch/en/" target="_blank">Transformation in Pesticide Governance project (TRAPEGO)</a> focuses on the role of evidence in pesticide governance. Using quantitative text analysis, I study the diffusion of evidence from the scientific arena into politics, media, and agricultural practice.
 
 In the context of the <a href="https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html" target="_blank">Blue Green Biodiversity Research Initiative (BGB)</a>, I evaluate the performance of Swiss biodiversity policy over the last two decades. The focus is on the integration of biodiversity into different policy sectors and stages of the policy process. This also involves the question of which actors are driving biodiversity integration.
 
