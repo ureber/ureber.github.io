@@ -54,7 +54,7 @@ Häussler, T., Adam, S., Schmid-Petri, H., & Reber, U. (2017). How political con
 Häussler, T., Schmid-Petri, H., Adam, S., Reber, U., & Arlt, D. (2016). The climate of debate: How institutional factors shape legislative discourses on climate change. _Studies in Communication Sciences 16_, 94-102. doi: <a href="https://doi.org/10.1016/j.scoms.2016.04.002" target="_blank">10.1016/j.scoms.2016.04.002</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/112839/" target="_blank">BORIS</a> open repository\]
 
-Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2016). Identifying and Analyzing Hyperlink Issue Networks. In G. Vowe & P. Henn (Eds.), _Political Communication in the Online World: Theoretical Approaches and Research Designs_ (pp. 233–247). New York, London: Routledge.</a><br>
+Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2016). Identifying and Analyzing Hyperlink Issue Networks. In G. Vowe & P. Henn (Eds.), _Political Communication in the Online World: Theoretical Approaches and Research Designs_ (pp. 233–247). New York, London: Routledge.<br>
 \[Book can be found <a href="http://ndl.ethernet.edu.et/bitstream/123456789/48695/1/40.pdf#page=250" target="_blank">online</a>\]
 
 ### <a name="teaching"></a>Teaching
