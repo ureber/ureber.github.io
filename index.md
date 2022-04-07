@@ -27,11 +27,14 @@ I am member of the <a href="https://sgkm.ch/en/" target="_blank">Swiss Associati
 
 ### <a name="publications"></a>Publications
 
+Reber, U., Fischer, M., Ingold, K., Kienast, F., Hersperger, A. M., Grütter, R., & Benz, R. (2022). Integrating biodiversity: A longitudinal and cross-sectoral analysis of Swiss politics. _Policy Sciences_. doi: <a href="https://doi.org/10.1007/s11077-022-09456-4" target="_blank">10.1007/s11077-022-09456-4</a><br>
+\[Open access, full replication data/code on <a href="https://doi.org/10.16904/envidat.302" target="_blank">EnviDat</a>\]
+
 Reber, U. (2021). Global climate change or national climate changes? An analysis of the performance of online issue publics in integrating global issues. _Environmental Communication, 15_(2), 173-188. doi: <a href="https://doi.org/10.1080/17524032.2020.1812685" target="_blank">10.1080/17524032.2020.1812685</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/146500/" target="_blank">BORIS</a> open repository\]
 
-Adam, S., Reber, U., Häussler, T., & Schmid-Petri, H. (2020). How climate change skeptics (try to) spread their ideas: Using computational methods to assess the resonance among skeptics' and legacy media. _PLoS ONE, 15_(10), 1-23. doi: <a href="https://doi.org/10.1371/journal.pone.0240089" target="_blank">10.1371/journal.pone.0240089</a><br>
-\[Open access, R code on <a href="https://github.com/ikmb-unibe/coab_so2" target="_blank">GitHub</a>\]
+Adam, S.\*, Reber, U.\*, Häussler, T.\*, & Schmid-Petri, H. (2020). How climate change skeptics (try to) spread their ideas: Using computational methods to assess the resonance among skeptics' and legacy media. _PLoS ONE, 15_(10), 1-23. doi: <a href="https://doi.org/10.1371/journal.pone.0240089" target="_blank">10.1371/journal.pone.0240089</a><br>
+\[Open access, R code on <a href="https://github.com/ikmb-unibe/coab_so2" target="_blank">GitHub</a>, \*equal contribution\]
 
 Schmid-Petri, H., Reber, U., Arlt, D., Elgesem, D., Adam, S., & Häussler, T. (2020). A dynamic perspective on publics and counterpublics: The role of the blogosphere in pushing the issue of climate change during the 2016 US presidential campaign. _Environmental Communication, 14_(3), 378-390. doi: <a href="https://doi.org/10.1080/17524032.2019.1677738" target="_blank">10.1080/17524032.2019.1677738</a><br>
 \[Manuscript on <a href="https://boris.unibe.ch/135097/" target="_blank">BORIS</a> open repository\]
@@ -82,7 +85,7 @@ I teach courses in the areas of political communication and computational method
 
 #### offline 
 
-Swiss Federal Institute of Aquatic Science and Technology (Eawag)<br>
+Eawag: Swiss Federal Institute of Aquatic Science and Technology<br>
 Environmental Social Sciences<br>
 Überlandstrasse 133<br>
 8600 Dübendorf<br>
@@ -90,4 +93,4 @@ Switzerland
 
 <hr>
 
-<cred>© 2021 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
+<cred>© 2022 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
