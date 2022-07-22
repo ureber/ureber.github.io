@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Computational social scientist<br>studying environmental politics
+## Environmental Policy<br>Political Communication<br>Text as Data
 
 [About](#about) \| [Research](#research) \| [Publications](#publications) \| [Teaching](#teaching) \| [Contact](#contact)
 
@@ -10,7 +10,7 @@ layout: default
 
 I am a postdoctoral researcher at the <a href="https://www.eawag.ch/en/" target="_blank">Swiss Federal Institute of Aquatic Science and Technology (Eawag)</a> in Zürich, where I am a member of the <a href="https://www.eawag.ch/en/department/ess/main-focus/pego/" target="_blank">Policy Analysis and Environmental Governance group (PEGO)</a>. Befor I joined PEGO, I was a postdoctoral researcher at the <a href="https://www.wsl.ch/en/index.html" target="_blank">Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)</a> and earned my doctorate in social sciences at the <a href="https://www.unibe.ch/index_eng.html" target="_blank">University of Bern</a>. I also hold a master's degree in geography from the University of Bern.
 
-My research interests include environmental politics, political communication, transnationalization, and computational methods for content and network analysis. Most of the evidence I produce is based on the analysis of texts.
+My research interests include environmental policy, political communication, transnationalization, and computational methods for content and network analysis. Most of the evidence I produce is based on the analysis of texts.
 
 ### <a name="research"></a>Research
 
@@ -76,10 +76,10 @@ I teach courses in the areas of political communication and computational method
 
 #### online
 
-<a href="mailto:ueli.reber@eawag.ch"><i class="fa fa-envelope-square fa-3x"></i></a>&nbsp;&nbsp;
-<a href="https://github.com/ureber" target="_blank"><i class="fa fa-github-square fa-3x"></i></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ureber" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>&nbsp;&nbsp;
-<a href="https://twitter.com/u_reber" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>&nbsp;&nbsp;
+<a href="mailto:ueli.reber@eawag.ch"><i class="fa fa-envelope fa-3x"></i></a>&nbsp;&nbsp;
+<a href="https://github.com/ureber" target="_blank"><i class="fa fa-github fa-3x"></i></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ureber" target="_blank"><i class="fa fa-linkedin fa-3x"></i></a>&nbsp;&nbsp;
+<a href="https://twitter.com/u_reber" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=f9mSE5gAAAAJ&hl=de&oi=ao" target="_blank"><i class="fa fa-google fa-3x"></i></a>
 
 
