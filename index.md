@@ -77,7 +77,7 @@ I teach courses in the areas of political communication and computational method
 #### online
 
 <a href="mailto:ueli.reber@eawag.ch"><i class="fa fa-envelope fa-3x"></i></a>&nbsp;&nbsp;
-<a rel="me" href="https://scholar.social/@u_reber" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>&nbsp;&nbsp;
+<a rel="me" href="https://sciences.social/@u_reber" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ureber" target="_blank"><i class="fa fa-linkedin fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://github.com/ureber" target="_blank"><i class="fa fa-github fa-3x"></i></a>&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=f9mSE5gAAAAJ&hl=de&oi=ao" target="_blank"><i class="fa fa-google fa-3x"></i></a>
