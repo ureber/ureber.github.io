@@ -79,12 +79,26 @@ I teach courses in the areas of political communication and computational method
 
 #### online
 
+<div class="row">
+<div class="column">
 <a href="mailto:ueli.reber@eawag.ch"><img src="images/mail.png" alt="Email" height="70"></a>
+</div>
+<div class="column">
 <a rel="me" href="https://sciences.social/@u_reber" target="_blank"><img src="images/mas.png" alt="Mastodon" height="70"></a>
+</div>
+<div class="column">
 <a href="https://www.linkedin.com/in/ureber" target="_blank"><img src="images/li.png" alt="LinkedIn" height="70"></a>
+</div>
+<div class="column">
 <a href="https://orcid.org/0000-0001-8036-4493" target="_blank"><img src="images/orcid.png" alt="ORCID" height="70"></a>
+</div>
+<div class="column">
 <a href="https://github.com/ureber" target="_blank"><img src="images/gh.png" alt="GitHub" height="70"></a>
+</div>
+<div class="column">
 <a href="https://scholar.google.com/citations?user=f9mSE5gAAAAJ" target="_blank"><img src="images/gs.png" alt="Google Scholar" height="70"></a>
+</div>
+</div>
 
 #### offline 
 
