@@ -275,13 +275,13 @@ pre > code {
 .sharing-buttons {
 	width: 100%;
 }
-}
 
 .row {
   display: flex;
 }
 
 .column {
-  flex: 16.65%;
+  flex: 16.66%;
   padding: 5px;
+}
 }
