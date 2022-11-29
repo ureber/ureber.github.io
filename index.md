@@ -79,11 +79,12 @@ I teach courses in the areas of political communication and computational method
 
 #### online
 
-<a href="mailto:ueli.reber@eawag.ch"><i class="fa fa-envelope fa-3x"></i></a>&nbsp;&nbsp;
-<a rel="me" href="https://sciences.social/@u_reber" target="_blank"><i class="fa fa-twitter fa-3x"></i></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ureber" target="_blank"><i class="fa fa-linkedin fa-3x"></i></a>&nbsp;&nbsp;
-<a href="https://github.com/ureber" target="_blank"><i class="fa fa-github fa-3x"></i></a>&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=f9mSE5gAAAAJ&hl=de&oi=ao" target="_blank"><i class="fa fa-google fa-3x"></i></a>
+<a href="mailto:ueli.reber@eawag.ch"><img src="images/mail.png" alt="Email" height="70"></a>
+<a rel="me" href="https://sciences.social/@u_reber" target="_blank"><img src="images/mas.png" alt="Mastodon" height="70"></a>
+<a href="https://www.linkedin.com/in/ureber" target="_blank"><img src="images/li.png" alt="LinkedIn" height="70"></a>
+<a href="https://orcid.org/0000-0001-8036-4493" target="_blank"><img src="images/orcid.png" alt="ORCID" height="70"></a>
+<a href="https://github.com/ureber" target="_blank"><img src="images/gh.png" alt="GitHub" height="70"></a>
+<a href="https://scholar.google.com/citations?user=f9mSE5gAAAAJ" target="_blank"><img src="images/gs.png" alt="Google Scholar" height="70"></a>
 
 #### offline 
 
