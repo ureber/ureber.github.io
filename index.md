@@ -27,6 +27,9 @@ I am member of the <a href="https://www.svpw-assp.ch/en/home/" target="_blank">S
 
 ### <a name="publications"></a>Publications
 
+Reber, U., Ingold, K., & Fischer, M., (2023). The role of actors' issue and sector specialization for policy integration in the parliamentary arena: an analysis of Swiss biodiversity policy using text as data. _Policy Sciences_. doi: <a href="https://doi.org/10.1007/s11077-022-09490-2" target="_blank">10.1007/s11077-022-09490-2</a><br>
+\[Open access, full replication data/code on <a href=https://doi.org/10.5281/zenodo.7341147" target="_blank">Zenodo</a>\]
+
 Hofmann, B., Ingold, K., Stamm, C., Ammann, P., Eggen, R. I. L., Finger, R., Fuhrimann, S., Lienert, J., Mark, J., McCallum, C., Probst-Hensch, N., Reber, U., Tamm, L., Wiget, M., Winkler, M. S., Zachmann, L., & Hoffmann, S. (2022). Barriers to evidence use for sustainability: Insights from pesticide policy and practice. _Ambio_. doi: <a href="https://doi.org/10.1007/s13280-022-01790-4" target="_blank">10.1007/s13280-022-01790-4</a><br>
 \[Open access\]
 
