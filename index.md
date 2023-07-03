@@ -70,13 +70,13 @@ Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2016). Identifying and A
 
 I teach courses in the areas of political communication and computational methods. My most recent teaching activities include:
 
+* [Text analysis for social sciences](/assets/2023-05-09_Textanalyse_Syllabus.pdf) (University of Bern, master seminar, spring 2023)
 * Introduction to R for social sciences (University of Bern, bachelor tutorial, fall 2020, together with Dr. Aleksandra Urman and Dr. Marlene Kammerer)
 * Text as Data: Introduction to Web Scraping and Text Mining mit R (University of Bern, bachelor proseminar, spring 2020)
 * Introduction to R for communication research (University of Bern, bachelor tutorial, fall 2019, together with Dr. Thomas Häussler and Aleksandra Urman)
 * Introduction to Web scraping and automated content analysis with R (University of Bern, bachelor proseminar, spring 2019)
 * Structure and content: Combining social network analysis and topic modeling (University of Bremen, PhD/postdoc workshop, fall 2018)
 * Political online communication (University of Bern, bachelor proseminar, fall 2018)
-* Introduction to communication and media studies (University of Bern, bachelor tutorial, fall 2018, together with Dr. Franzisca Schmidt)
 
 ### <a name="contact"></a>Contact
 
