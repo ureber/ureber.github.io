@@ -72,6 +72,8 @@ Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2016). Identifying and A
 
 #### <a name="outreach-publications"></a>Outreach publications 
 
+Fischer, M., & Reber, U. (2022). <a href="/assets/Fischer-Reber_2022_Im-Schatten-des-politischen-Fokus.pdf" target="_blank">Im Schatten des politischen Fokus</a>. _Aqua Viva_, 4/22, 30-31. 
+
 Moor, H., Gossner, M. M., Graham, C., Hobi, M. L., Logar, I., Narwani, A., Reber, U., Seehausen, O., Holderegger, R., & Altermatt, F. (2022). <a href="/assets/Moor-et-al_2022_Besserer-Biodiversitätsschutz.pdf" target="_blank">Besserer Biodiversitätsschutz in Blau-Grünen Ökosystemen</a>. _N+L Inside_, 1/22, 25-29.
 
 Moor, H., Gossner, M. M., Graham, C., Hobi, M. L., Holderegger, R., Reber, U., Altermatt, F., Logar, I., Matthews, B., Narwani, A., Seehausen, O., & Shipley, R. (2021). <a href="/assets/Moor-et-al_2021_Biodiversitätsschutz-dank-Ökosystem-übergreifendem-Denken.pdf" target="_blank">Biodiversitätsschutz dank Ökosystem-übergreifendem Denken</a>. _Aqua & Gas_, 12/21, 44-49. 
