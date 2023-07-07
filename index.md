@@ -23,9 +23,13 @@ In the context of the <a href="https://www.wsl.ch/en/about-wsl/programmes-and-in
 
 In my dissertation <a href="https://boristheses.unibe.ch/2270/" target="_blank">World Wide Web? A closer look at the transnational online public discourse on climate change</a>, I examined whether the climate change issue produces transnationalized publics in different countries and searched for factors that can explain the patterns found. The project aimed to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses. The dissertation was part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/finished_research_projects/abgeschlossene_forschungsprojekte/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues</a>.
 
-I am member of the <a href="https://www.svpw-assp.ch/en/home/" target="_blank">Swiss Political Science Association (SPSA)</a> and the <a href="https://sgkm.ch/en/" target="_blank">Swiss Association of Communication and Media Research (SACM)</a>.
+I am member of the <a href="https://www.svpw-assp.ch/en/home/" target="_blank">Swiss Political Science Association (SPSA)</a>.
 
 ### <a name="publications"></a>Publications
+
+[Research publications](#research-publications) \| [Outreach publications](#outreach-publications) \| [Data collection tools](#data-collection-tools)
+
+#### <a name="research-publications"></a>Research publications
 
 Reber, U., Ingold, K., & Fischer, M., (2023). The role of actors' issue and sector specialization for policy integration in the parliamentary arena: an analysis of Swiss biodiversity policy using text as data. _Policy Sciences_. doi: <a href="https://doi.org/10.1007/s11077-022-09490-2" target="_blank">10.1007/s11077-022-09490-2</a><br>
 \[Open access, full replication data/code on <a href="https://doi.org/10.5281/zenodo.7341147" target="_blank">Zenodo</a>\]
@@ -66,11 +70,24 @@ Häussler, T., Schmid-Petri, H., Adam, S., Reber, U., & Arlt, D. (2016). The cli
 Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2016). Identifying and Analyzing Hyperlink Issue Networks. In G. Vowe & P. Henn (Eds.), _Political Communication in the Online World: Theoretical Approaches and Research Designs_ (pp. 233–247). New York, London: Routledge.<br>
 \[Book can be found <a href="http://ndl.ethernet.edu.et/bitstream/123456789/48695/1/40.pdf#page=250" target="_blank">online</a>\]
 
+#### <a name="outreach-publications"></a>Outreach publications 
+
+Moor, H., Gossner, M. M., Graham, C., Hobi, M. L., Logar, I., Narwani, A., Reber, U., Seehausen, O., Holderegger, R., & Altermatt, F. (2022). <a href="/assets/Moor-et-al_2022_Besserer-Biodiversitätsschutz.pdf" target="_blank">Besserer Biodiversitätsschutz in Blau-Grünen Ökosystemen</a>. N+L Inside, 1/22, 25-29.
+
+Moor, H., Gossner, M. M., Graham, C., Hobi, M. L., Holderegger, R., Reber, U., Altermatt, F., Logar, I., Matthews, B., Narwani, A., Seehausen, O., & Shipley, R. (2021). <a href="/assets/Moor-et-al_2021_Biodiversitätsschutz-dank-Ökosystem-übergreifendem-Denken.pdf" target="_blank">Biodiversitätsschutz dank Ökosystem-übergreifendem Denken</a>. _Aqua & Gas_, 12/21, 44-49. 
+
+Reber, U., Fischer, M., Ingold, K., Kienast, F., Hersperger, A. M., & Grütter, R., (2021). <a href="/assets/Reber-et-al_2021_Die-vielen-Gesicher-der-Biodiversitätspolitik.pdf" target="_blank">Die vielen Gesichter der Biodiversitätspolitik</a> / <a href="/assets/Reber- et-al_2021_Les-multiples-visages-de-la-politique-biodiversitaire.pdf" target="_blank">Les multiples visages de la politique biodiversitaire</a>. _Hotspot_, 44, 9. 
+
+#### <a name="data-collection-tools"></a>Data collection tools
+
+Reber, U., Ingold, K., & Stamm, C. (2023). _Codebook for the analysis of evidence use in the public discourse on pesticides in Switzerland_. doi: <a href="https://doi.org/10.5281/zenodo.8124824" target="_blank">10.5281/zenodo.8124824</a><br>
+\[Open access\]
+
 ### <a name="teaching"></a>Teaching
 
 I teach courses in the areas of political communication and computational methods. My most recent teaching activities include:
 
-* [Text analysis for social sciences](/assets/2023-05-09_Textanalyse_Syllabus.pdf) (University of Bern, master seminar, spring 2023)
+* <a href="/assets/2023-05-09_Textanalyse_Syllabus.pdf" target="_blank">Text analysis for social sciences</a> (University of Bern, master seminar, spring 2023)
 * Introduction to R for social sciences (University of Bern, bachelor tutorial, fall 2020, together with Dr. Aleksandra Urman and Dr. Marlene Kammerer)
 * Text as Data: Introduction to Web Scraping and Text Mining mit R (University of Bern, bachelor proseminar, spring 2020)
 * Introduction to R for communication research (University of Bern, bachelor tutorial, fall 2019, together with Dr. Thomas Häussler and Aleksandra Urman)
@@ -105,7 +122,7 @@ I teach courses in the areas of political communication and computational method
 
 #### offline 
 
-Eawag: Swiss Federal Institute of Aquatic Science and Technology<br>
+Swiss Federal Institute of Aquatic Science and Technology (Eawag)<br>
 Environmental Social Sciences<br>
 Überlandstrasse 133<br>
 8600 Dübendorf<br>
@@ -113,4 +130,4 @@ Switzerland
 
 <hr>
 
-<cred>© 2022 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
+<cred>© 2023 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
