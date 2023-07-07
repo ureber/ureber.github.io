@@ -76,7 +76,7 @@ Moor, H., Gossner, M. M., Graham, C., Hobi, M. L., Logar, I., Narwani, A., Reber
 
 Moor, H., Gossner, M. M., Graham, C., Hobi, M. L., Holderegger, R., Reber, U., Altermatt, F., Logar, I., Matthews, B., Narwani, A., Seehausen, O., & Shipley, R. (2021). <a href="/assets/Moor-et-al_2021_Biodiversitätsschutz-dank-Ökosystem-übergreifendem-Denken.pdf" target="_blank">Biodiversitätsschutz dank Ökosystem-übergreifendem Denken</a>. _Aqua & Gas_, 12/21, 44-49. 
 
-Reber, U., Fischer, M., Ingold, K., Kienast, F., Hersperger, A. M., & Grütter, R., (2021). <a href="/assets/Reber-et-al_2021_Die-vielen-Gesicher-der-Biodiversitätspolitik.pdf" target="_blank">Die vielen Gesichter der Biodiversitätspolitik</a> / <a href="/assets/Reber- et-al_2021_Les-multiples-visages-de-la-politique-biodiversitaire.pdf" target="_blank">Les multiples visages de la politique biodiversitaire</a>. _Hotspot_, 44, 9. 
+Reber, U., Fischer, M., Ingold, K., Kienast, F., Hersperger, A. M., & Grütter, R., (2021). <a href="/assets/Reber-et-al_2021_Die-vielen-Gesicher-der-Biodiversitätspolitik.pdf" target="_blank">Die vielen Gesichter der Biodiversitätspolitik</a> / <a href="/assets/Reber-et-al_2021_Les-multiples-visages-de-la-politique-biodiversitaire.pdf" target="_blank">Les multiples visages de la politique biodiversitaire</a>. _Hotspot_, 44, 9. 
 
 #### <a name="data-collection-tools"></a>Data collection tools
 
