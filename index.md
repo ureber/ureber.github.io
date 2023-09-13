@@ -27,7 +27,7 @@ I am member of the <a href="https://www.svpw-assp.ch/en/home/" target="_blank">S
 
 ### <a name="publications"></a>Publications
 
-[Research publications](#research-publications) \| [Outreach publications](#outreach-publications) \| [Tools](#tools)
+[Research publications](#research-publications) \| [Outreach publications](#outreach-publications) \| [Tools and data](#tools)
 
 #### <a name="research-publications"></a>Research publications
 
@@ -80,7 +80,7 @@ Moor, H., Gossner, M. M., Graham, C., Hobi, M. L., Holderegger, R., Reber, U., A
 
 Reber, U., Fischer, M., Ingold, K., Kienast, F., Hersperger, A. M., & Grütter, R., (2021). <a href="/assets/Reber-et-al_2021_Die-vielen-Gesicher-der-Biodiversitätspolitik.pdf" target="_blank">Die vielen Gesichter der Biodiversitätspolitik</a> / <a href="/assets/Reber-et-al_2021_Les-multiples-visages-de-la-politique-biodiversitaire.pdf" target="_blank">Les multiples visages de la politique biodiversitaire</a>. _Hotspot_, 44, 9. 
 
-#### <a name="tools"></a>Tools
+#### <a name="tools"></a>Tools and data
 
 Reber, U., Ingold, K., & Stamm, C. (2023). _Codebook for the analysis of evidence use in the public discourse on pesticides in Switzerland_. doi: <a href="https://doi.org/10.5281/zenodo.8124824" target="_blank">10.5281/zenodo.8124824</a><br>
 \[Open access\]
@@ -124,7 +124,7 @@ I teach courses in the areas of political communication and computational method
 
 #### offline 
 
-Swiss Federal Institute of Aquatic Science and Technology (Eawag)<br>
+Eawag: Swiss Federal Institute of Aquatic Science and Technology<br>
 Environmental Social Sciences<br>
 Überlandstrasse 133<br>
 8600 Dübendorf<br>
