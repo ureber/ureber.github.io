@@ -84,10 +84,6 @@ Reber, U., Ingold, K., & Stamm, C. (2023). _Codebook for the analysis of evidenc
 </div>
 <div class="column">
 <a href="https://orcid.org/0000-0001-8036-4493" target="_blank"><img src="images/orcid.png" alt="ORCID" style="width:100%"></a>
-</div>
-<div class="column">
-<a href="https://github.com/ureber" target="_blank"><img src="images/gh.png" alt="GitHub" style="width:100%"></a>
-</div>
 <div class="column">
 <a href="https://scholar.google.com/citations?user=f9mSE5gAAAAJ" target="_blank"><img src="images/gs.png" alt="Google Scholar" style="width:100%"></a>
 </div>
