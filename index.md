@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[About](#about) \| [Publications](#publications) \| [Contact](#contact)
-
 ### <a name="about"></a>About
 
 I used to be a political scientist at the <a href="https://www.eawag.ch/en/" target="_blank">Swiss Federal Institute of Aquatic Science and Technology (Eawag)</a>, the <a href="https://www.unibe.ch/index_eng.html" target="_blank">University of Bern</a>, and the <a href="https://www.wsl.ch/en/index.html" target="_blank">Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)</a>. I earned my doctorate in social sciences at the University of Bern. I also hold a master's degree in geography from the University of Bern.
@@ -75,19 +73,6 @@ Reber, U., Ingold, K., & Stamm, C. (2025). _Data of the TRAPEGO analysis of evid
 
 Reber, U., Ingold, K., & Stamm, C. (2023). _Codebook for the analysis of evidence use in the public discourse on pesticides in Switzerland_. doi: <a href="https://doi.org/10.5281/zenodo.8124824" target="_blank">10.5281/zenodo.8124824</a><br>
 \[Open access\]
-
-### <a name="contact"></a>Contact
-
-<div class="row">
-<div class="column">
-<a href="https://www.linkedin.com/in/ureber" target="_blank"><img src="images/li.png" alt="LinkedIn" style="width:100%"></a>
-</div>
-<div class="column">
-<a href="https://orcid.org/0000-0001-8036-4493" target="_blank"><img src="images/orcid.png" alt="ORCID" style="width:100%"></a>
-<div class="column">
-<a href="https://scholar.google.com/citations?user=f9mSE5gAAAAJ" target="_blank"><img src="images/gs.png" alt="Google Scholar" style="width:100%"></a>
-</div>
-</div>
 
 <hr>
 
