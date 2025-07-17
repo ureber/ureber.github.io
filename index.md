@@ -2,34 +2,22 @@
 layout: default
 ---
 
-## Environmental Policy<br>Political Communication<br>Text as Data
-
-[About](#about) \| [Research](#research) \| [Publications](#publications) \| [Teaching](#teaching) \| [Contact](#contact)
+[About](#about) \| [Publications](#publications) \| [Contact](#contact)
 
 ### <a name="about"></a>About
 
-I am a postdoctoral researcher at the <a href="https://www.eawag.ch/en/" target="_blank">Swiss Federal Institute of Aquatic Science and Technology (Eawag)</a> in Zürich, where I am a member of the <a href="https://www.eawag.ch/en/department/ess/main-focus/pego/" target="_blank">Policy Analysis and Environmental Governance group (PEGO)</a>. Befor I joined PEGO, I was a postdoctoral researcher at the <a href="https://www.wsl.ch/en/index.html" target="_blank">Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)</a> and earned my doctorate in social sciences at the <a href="https://www.unibe.ch/index_eng.html" target="_blank">University of Bern</a>. I also hold a master's degree in geography from the University of Bern.
+I used to be a political scientist at the <a href="https://www.eawag.ch/en/" target="_blank">Swiss Federal Institute of Aquatic Science and Technology (Eawag)</a>, the <a href="https://www.unibe.ch/index_eng.html" target="_blank">University of Bern</a>, and the <a href="https://www.wsl.ch/en/index.html" target="_blank">Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)</a>. I earned my doctorate in social sciences at the University of Bern. I also hold a master's degree in geography from the University of Bern.
 
-My research interests include environmental policy, political communication, transnationalization, and computational methods for content and network analysis. Most of the evidence I produce is based on the analysis of texts.
-
-### <a name="research"></a>Research
-
-My current work in the <a href="https://trapego.ch/en/" target="_blank">Transformation in Pesticide Governance project (TRAPEGO)</a> focuses on the role of evidence in pesticide governance. Using quantitative text analysis, I study the diffusion of evidence from the scientific arena into politics, media, and agricultural practice.
-
-In the context of the <a href="https://www.wsl.ch/en/about-wsl/programmes-and-initiatives/blue-green-biodiversity-research-initiative.html" target="_blank">Blue Green Biodiversity Research Initiative (BGB)</a>, I evaluate the performance of Swiss biodiversity policy over the last two decades. The focus is on the integration of biodiversity into different policy sectors and stages of the policy process. This also involves the question of which actors are driving biodiversity integration.
-
-<img src="images/net_3.png" alt="Climate change hyperlink and discourse network">
-<p><small>The transnational climate change debate online: Nodes represent actors, ties represent hyperlinks in the bottom network and common topics in the top network, colors represent the actors' countries (Reber & Häussler, work in progress).</small></p>
-
-In my dissertation <a href="https://boristheses.unibe.ch/2270/" target="_blank">World Wide Web? A closer look at the transnational online public discourse on climate change</a>, I examined whether the climate change issue produces transnationalized publics in different countries and searched for factors that can explain the patterns found. The project aimed to improve the understanding of how political discourses work in the digital society and to provide answers to current methodological challenges when it comes to the analysis of online discourses. The dissertation was part of the project <a href="https://www.ikmb.unibe.ch/research/researchprojects/finished_research_projects/abgeschlossene_forschungsprojekte/political_agenda_building_under_the_conditions_of_a_hybrid_media_system__a_comparison_across_countries_and_issues_2014_2017/index_eng.html" target="_blank">Political agenda-building under the conditions of a hybrid media system – a comparison across countries and issues</a>.
-
-I am member of the <a href="https://www.svpw-assp.ch/en/home/" target="_blank">Swiss Political Science Association (SPSA)</a>.
+My research interests included environmental policy, political communication, and the science-policy interface. Most of the evidence I produced is based on the analysis of texts.
 
 ### <a name="publications"></a>Publications
 
 [Research publications](#research-publications) \| [Outreach publications](#outreach-publications) \| [Tools and data](#tools)
 
 #### <a name="research-publications"></a>Research publications
+
+Hofmann, B., Reber, U., Ammann, P., Dötzer, J., Mark, J., McCallum, C., Wiget, M., & Zachmann, L. (2025). A typology of interdisciplinary collaborations: insights from agri-food transformation research, _Sustainability Science_. doi: <a href="https://doi.org/10.1007/s11625-025-01702-x" target="_blank">10.1007/s11625-025-01702-x</a><br>
+\[Open access\]
 
 Reber, U., Ingold, K., & Fischer, M., (2023). The role of actors' issue and sector specialization for policy integration in the parliamentary arena: an analysis of Swiss biodiversity policy using text as data. _Policy Sciences_. doi: <a href="https://doi.org/10.1007/s11077-022-09490-2" target="_blank">10.1007/s11077-022-09490-2</a><br>
 \[Open access, full replication data/code on <a href="https://doi.org/10.5281/zenodo.7341147" target="_blank">Zenodo</a>\]
@@ -82,32 +70,15 @@ Reber, U., Fischer, M., Ingold, K., Kienast, F., Hersperger, A. M., & Grütter, 
 
 #### <a name="tools"></a>Tools and data
 
+Reber, U., Ingold, K., & Stamm, C. (2025). _Data of the TRAPEGO analysis of evidence use in the public discourse on pesticides in Switzerland_. doi: <a href="https://doi.org/10.25678/000EJP" target="_blank">10.25678/000EJP</a><br>
+\[Open access\]
+
 Reber, U., Ingold, K., & Stamm, C. (2023). _Codebook for the analysis of evidence use in the public discourse on pesticides in Switzerland_. doi: <a href="https://doi.org/10.5281/zenodo.8124824" target="_blank">10.5281/zenodo.8124824</a><br>
 \[Open access\]
 
-### <a name="teaching"></a>Teaching
-
-I teach courses in the areas of political communication and computational methods. My most recent teaching activities include:
-
-* <a href="/assets/2023-05-09_Textanalyse_Syllabus.pdf" target="_blank">Text analysis for social sciences</a> (University of Bern, master seminar, spring 2023)
-* Introduction to R for social sciences (University of Bern, bachelor tutorial, fall 2020, together with Dr. Aleksandra Urman and Dr. Marlene Kammerer)
-* Text as Data: Introduction to Web Scraping and Text Mining mit R (University of Bern, bachelor proseminar, spring 2020)
-* Introduction to R for communication research (University of Bern, bachelor tutorial, fall 2019, together with Dr. Thomas Häussler and Aleksandra Urman)
-* Introduction to Web scraping and automated content analysis with R (University of Bern, bachelor proseminar, spring 2019)
-* Structure and content: Combining social network analysis and topic modeling (University of Bremen, PhD/postdoc workshop, fall 2018)
-* Political online communication (University of Bern, bachelor proseminar, fall 2018)
-
 ### <a name="contact"></a>Contact
 
-#### online
-
 <div class="row">
-<div class="column">
-<a href="mailto:ueli.reber@eawag.ch"><img src="images/mail.png" alt="Email" style="width:100%"></a>
-</div>
-<div class="column">
-<a rel="me" href="https://sciences.social/@u_reber" target="_blank"><img src="images/mas.png" alt="Mastodon" style="width:100%"></a>
-</div>
 <div class="column">
 <a href="https://www.linkedin.com/in/ureber" target="_blank"><img src="images/li.png" alt="LinkedIn" style="width:100%"></a>
 </div>
@@ -122,14 +93,6 @@ I teach courses in the areas of political communication and computational method
 </div>
 </div>
 
-#### offline 
-
-Eawag: Swiss Federal Institute of Aquatic Science and Technology<br>
-Environmental Social Sciences<br>
-Überlandstrasse 133<br>
-8600 Dübendorf<br>
-Switzerland
-
 <hr>
 
-<cred>© 2023 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
+<cred>© 2025 Ueli Reber. Design by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/adueck/good-clean-read" target="_blank">Good Clean Read</a></cred>
